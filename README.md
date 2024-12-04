@@ -13,7 +13,7 @@ entusiastas que precisam de uma solução completa para manutenção de PCs.
 -Compatível com a maioria dos sistemas baseados em Windows.<br/>
 
 **Instruções:**<br/>
--Acesse o ficheiro chamado "Google Drive Link"
+-Acesse o ficheiro chamado "Google Drive Link"<br/>
 -Faça o download do arquivo ISO diretamente deste repositório.<br/>
 -Grave a ISO em uma unidade USB utilizando ferramentas como Rufus ou similares.<br/>
 -Configure seu computador para dar boot pela USB e acesse as funcionalidades oferecidas.<br/>
