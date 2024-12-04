@@ -13,6 +13,7 @@ entusiastas que precisam de uma solução completa para manutenção de PCs.
 -Compatível com a maioria dos sistemas baseados em Windows.<br/>
 
 **Instruções:**<br/>
+-Acesse o link do Google Drive: https://drive.google.com/drive/folders/1acU2Z5qLr69iuSPjNS9EpEHhALWx5ODx?usp=drive_link<br/>
 -Faça o download do arquivo ISO diretamente deste repositório.<br/>
 -Grave a ISO em uma unidade USB utilizando ferramentas como Rufus ou similares.<br/>
 -Configure seu computador para dar boot pela USB e acesse as funcionalidades oferecidas.<br/>
@@ -47,6 +48,7 @@ and enthusiasts who need a comprehensive solution for PC maintenance.
 -Compatible with most Windows-based systems.<br/>
 
 **Instructions**<br/>
+-Acess the Google Drive link: https://drive.google.com/drive/folders/1acU2Z5qLr69iuSPjNS9EpEHhALWx5ODx?usp=drive_link<br/>
 -Download the ISO file directly from this repository.<br/>
 -Burn the ISO to a USB drive using tools like Rufus or similar.<br/>
 -Configure your computer to boot from USB and access the offered functionalities.<br/>
