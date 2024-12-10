@@ -14,7 +14,7 @@ entusiastas que precisam de uma solução completa para manutenção de PCs.
 
 **Instruções:**<br/>
 -Acesse o ficheiro chamado "Google Drive Link"<br/>
--Faça o download do arquivo ISO diretamente deste repositório.<br/>
+-Faça o download do arquivo ISO.<br/>
 -Grave a ISO em uma unidade USB utilizando ferramentas como Rufus ou similares.<br/>
 -Configure seu computador para dar boot pela USB e acesse as funcionalidades oferecidas.<br/>
 
@@ -49,7 +49,7 @@ and enthusiasts who need a comprehensive solution for PC maintenance.
 
 **Instructions**<br/>
 -Access the file named "Google Drive Link"<br/>
--Download the ISO file directly from this repository.<br/>
+-Download the ISO file.<br/>
 -Burn the ISO to a USB drive using tools like Rufus or similar.<br/>
 -Configure your computer to boot from USB and access the offered functionalities.<br/>
 
